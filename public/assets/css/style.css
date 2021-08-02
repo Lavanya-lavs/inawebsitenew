@@ -1929,6 +1929,12 @@ img.mfp-img{
   font-size: 1.2em;
 }
 
+.head{
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
 .nav-bottom{
   font-family: 'Montserrat', sans-serif;
   font-size:0.8125em;
