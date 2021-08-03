@@ -544,8 +544,8 @@ i.icon{
 
 .section{
   position: relative;
-  padding-top: 9.1em;
-  padding-bottom: 9.1em;
+  padding-top: 9em;
+  padding-bottom: 9em;
 }
 
 .section-sm{
@@ -1788,6 +1788,7 @@ img.mfp-img{
   opacity: 0;
   transition:all 0.3s;
 }
+
 
 .col-news-date{
   font-family: 'Montserrat', sans-serif;
