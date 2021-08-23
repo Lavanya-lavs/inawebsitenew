@@ -32,10 +32,10 @@ function validateEmail() {
 
 function validateForm() {
   if (!validateName() || !validateEmail()) {
-    alert("Form not submitted"); //Validation Message
+    alert("Sorry , Something went wrong."); //Validation Message
     return false;
   } else {
-    alert('submitted')
+    alert('Thank you , Your message is successfully sent.')
     submitted = true;
     return true;
   }
