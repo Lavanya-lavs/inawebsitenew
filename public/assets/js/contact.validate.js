@@ -35,6 +35,7 @@ function validateForm() {
     alert("Form not submitted"); //Validation Message
     return false;
   } else {
+    alert("Thank you,Your message is successfully sent.")
     submitted = true;
     return true;
   }
