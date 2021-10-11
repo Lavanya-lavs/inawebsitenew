@@ -1946,9 +1946,10 @@ img.mfp-img{
 }
 
 .head{
-  font-size: 17px;
+  font-size: 20px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+  margin-bottom: 2%;
 }
 
 .nav-bottom{
@@ -2006,7 +2007,7 @@ img.mfp-img{
   font-family: 'Montserrat', sans-serif;
   color:#fff;
   font-weight: 400;
-  margin-top:4.5em;
+  margin-top:6.5em;
   padding: 1.7em 0;
   background-color: #1c1c1c;
   font-size:0.75em;
@@ -2287,4 +2288,22 @@ img.mfp-img{
   color: #fff;
   top: 5px;
 }
-
+/* single project details */
+.single-price {
+  background: #141414;
+  box-shadow: 0px 4px 25px rgb(36 35 35 / 9%);
+  border-radius: 20px;
+  position: relative;
+  transition: .6s;
+}
+.price-qoute {
+  padding: 10px 0 5px 20px;
+}
+.price-details {
+  padding: 0 20px;
+}
+.price-details ul li {
+  line-height: 40px;
+  color: #5c5e71;
+  font-size: 17px;
+}
