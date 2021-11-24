@@ -144,7 +144,7 @@ h1 i,
 
 h2,
 .h2{ 
-  font-family: 'Montserrat', sans-serif;
+  font-family:  'Lora', serif;
   font-weight: 700;
   font-size: 2.5em;
   color: #fff;
@@ -1128,6 +1128,14 @@ i.icon{
   
   
 
+}
+
+.main{
+  position: relative;
+  overflow: hidden;
+  min-height: 420px;
+  color: #fff;
+  background-color: #222222;
 }
 
 .main h1{
